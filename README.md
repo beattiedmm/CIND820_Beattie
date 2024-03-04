@@ -4,7 +4,7 @@ Attached is that dataset downloaded January 11 2024 in both CSV and Excel format
 
 The IPYNB file labeled litreview includes an outline of the data, univariate analysis (histograms) and bivariate analysis (scatterplots) of the unaltered data. 
 
-Also attached is the PDF and IPYNB file of the Inital Code and Results which includes the same content as the ipynb litreivew file in additon to the following code and results explained below.
+Also attached is the PDF and IPYNB file of the Inital Code and Results which includes the same content as the ipynb litreview file in additon to the following code and results explained below.
 
 We first look to see whether date correlates with shows that have larger cumulative weeks in Top 10? Firstly, we find the average cumulative weeks in Top 10 by month and plot this in a histogram. We can see the data is non-normally distributed amongst the months which means we must use non-parametric statistical testing to determine the relationship between month and cumulative weeks. Secondly, we perform t-test between each month pairing. Although the data is non-normal, we assume the dataset is sufficiently large. 
 
