@@ -15,3 +15,5 @@ We also look at whether shows with more seasons make the top 10 list more often.
 Our final analysis investigated whether TV shows or movies spent more time on the cumulative weeks in Top 10 as per our preliminary analysis showing that TV shows made the Top 10 for up to 60 weeks, where movies only made the top 10 for up to 40 weeks. We looked at the histograms of both TV shows and movies and then calculated the average cumulative weeks in top 10 for each cateogry and ran statistical analysis. Wilcoxon Rank Sum test says the difference in averages, 4.9 and 2.0, is statistically significant. 
 
 Overall, we can conclude that histograms are a strong tool to visualize trends in data and statisical analysis can help determind the significance of the trends. We can also see that decision tree classification can be used to predict top 10 media in other countries, however, accuracy is sufficient but not great.
+
+Please note that this GitHub will remain the most recent version of code/results. There is a pdf error on the assignment page of D2L, however, the code uploaded on D2L, is the same as the code found here in GitHub.
