@@ -16,4 +16,8 @@ Our final analysis investigated whether TV shows or movies spent more time on th
 
 Overall, we can conclude that histograms are a strong tool to visualize trends in data and statisical analysis can help determind the significance of the trends. We can also see that decision tree classification can be used to predict top 10 media in other countries, however, accuracy is sufficient but not great.
 
-Please note that this GitHub will remain the most recent version of code/results. There is a pdf error on the assignment page of D2L, however, the code uploaded on D2L, is the same as the code found here in GitHub.
+
+
+Please note that this GitHub will remain the most recent version of code/results. There is a pdf error on the assignment page of D2L, however, the code uploaded on D2L, is the same as the code found here in GitHub. The results labeled final are currently works in progress updated as I complete the final report, which I have made some changes to compared to the initial code/results.
+
+The final results include a histogram of January month frequency distribution for cumulative weeks in top 10 showing non-normal distribution for data entries of the month January. 
